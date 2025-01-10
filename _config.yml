@@ -5,7 +5,7 @@ github_username: yasna459
 github_repo: "amazing-conditionals" 
 baseurl: "/amazing-conditionals"
 future: true
- remote_theme: jekyll/minima
+remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
